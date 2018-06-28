@@ -5,7 +5,7 @@ This repository includes the current research on deep learning based pose estima
 [**Available here**](refs)
 
 ## Citation
-Please cite these papers in your publications if it helps your research (the face keypoint detector was trained using the same procedure described in [Simon et al. 2017]):
+Please cite the original papers:
 
     @inproceedings{cao2017realtime,
       author = {Zhe Cao and Tomas Simon and Shih-En Wei and Yaser Sheikh},
